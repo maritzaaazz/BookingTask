@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BookingTask</string>
+
+    <array name="keberangkatan">
+        <item>Bali</item>
+        <item>Banten</item>
+        <item>Bengkulu</item>
+        <item>Gorontalo</item>
+        <item>Jakarta</item>
+        <item>Jambi</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Barat</item>
+        <item>Jawa Timur</item>
+    </array>
+
+    <array name="kelas">
+        <item>Ekonomi</item>
+        <item>Bisnis</item>
+        <item>Reguler</item>
+        <item>Lainnya</item>
+    </array>
+</resources>
